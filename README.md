@@ -1,10 +1,8 @@
-# Neat Starter
+# Andrew's Digital Garden
 
-Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind CSS
+Welcome to my digital garden, a working space of notes, projects, thoughts, and interconnected ideas meant to generate innovative progress in the workplace for myself. Maybe it will inspire somebody else, but that's not the poing. It's my little piece of the internet and nobody elses. 
 
-## Live Demo
-
-[https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
+Let's go ahead and get a start to this badboy!
 
 ### Technologies used:
 
@@ -13,15 +11,9 @@ Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-| ![image](https://user-images.githubusercontent.com/1884712/93762662-a62e4700-fc2d-11ea-9b2c-fda9f503402b.png) |
-| ------------------------------------------------------------------------------------------------------------- |
-
-
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
-
 ## Getting Started
 
-Detailed instructions are available in my blog. [Check it out](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
+If you would like to contribute to this repository or use it yourself, go ahead and follow the instructions below to get started:
 
 ### 1\. Clone this Repository
 
