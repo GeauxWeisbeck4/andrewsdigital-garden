@@ -1,22 +1,30 @@
 ---
 layout: default
-title: Neat Starter
+title: Andrew's Digital Garden
 path: home
 ---
 
 <div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
   <h1>
     Welcome to
-    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
+    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-teal-300 to-emerald-700">
       {{title}}
     </strong>
   </h1>
 
   <p>
-    <abbr title="netlify cms, eleventy, alpine js & tailwind css">NEAT</abbr>
-    Starter Template. Get Started by editing.
-    <code class="bg-gray-100 text-blue-800 p-1">/index.njk</code>
+    <abbr title="andrews digital garden">Digital Garden</abbr>
+    public workspace. My own piece of the internet.
+    <code class="bg-gray-100 text-blue-800 p-1">/get-your-own</code>
   </p>
+  <div>
+    <h3>Recent Blog Posts</h3>
+    <a href="#">
+      <strong>Here is My Digital Garden I'm Talking About</strong>
+      <time datetime="2023-03-05">March 5, 2023</time>
+      <div>By Andrew Weisbeck</div>
+    </a>
+  </div>
 
   {% include "./_includes/partials/content.html" %}
 </div>

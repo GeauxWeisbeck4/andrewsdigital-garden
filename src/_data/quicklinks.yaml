@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: GeauxAgile.js
+    url: "https://geauxagile.js"
+    desc: AI Powered agile framework that supercharges your project workflow.
+  - title: GeauxWeisbeck4.dev
+    url: "https://geauxweisbeck4.dev/"
+    desc: Portfolio website for Andrew Weisbeck
+  - title: Tar Heel Dev Studio
+    url: "https://tarheeldevstudio.com"
+    desc: A web development, marketing, and web design business
+  - title: AndrewWeisbeck.dev
+    url: "https://andrewweisbeck.dev/"
+    desc: The personal website of Andrew Weisbeck
